@@ -1,0 +1,8 @@
+Model Information:
+* title:	Computer Terminal 1000Poly
+* source:	https://sketchfab.com/3d-models/computer-terminal-1000poly-f24c0ab05c3c4e1793d07739b88bd996
+* author:	Wesley Cann (https://sketchfab.com/wes_cann)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
