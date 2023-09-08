@@ -39,7 +39,7 @@ const Navbar = (props) => {
                  onClick={()=>(
                   setNavDisplay('hero')
                 )}>
-                  Yixi &nbsp;
+                  Carol &nbsp;
                  <span className=' sm:block '>|&nbsp;
                   Wang</span></p>
           </a>

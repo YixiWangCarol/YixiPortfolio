@@ -31,7 +31,7 @@ const Hero = () => {
 
           <div style={{zIndex:2}}>
             <h1 className={`${styles.heroHeadText} text-white`}>
-              Hi, I'm <span className='text-[#02ed60]'>Yixi</span>
+              Hi, I'm <span className='text-[#02ed60]'>carol</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-[#eee]`}>A <span className="text-[#02ed60]">front-end developer.</span>  <br className='sm:block' hidden/>
             I am passionate about creating elegant, interactive web experiences and efficient websites.
