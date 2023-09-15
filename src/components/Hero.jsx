@@ -31,7 +31,7 @@ const Hero = () => {
 
           <div style={{zIndex:2}}>
             <h1 className={`${styles.heroHeadText} text-white`}>
-              Hi, I'm <span className='text-[#02ed60]'>carol</span>
+              Hi, I'm <span className='text-[#02ed60]'>Yixi</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-[#eee]`}>A <span className="text-[#02ed60]">front-end developer.</span>  <br className='sm:block' hidden/>
             I am passionate about creating elegant, interactive web experiences and efficient websites.
@@ -60,11 +60,11 @@ const Hero = () => {
                 </a>
               </div>
               <div className="flex flex-row items-center gap-5 ">
-                <a href="https://www.linkedin.com/in/yixi-carol-wang-307937239/" target="_blank">
+                <a href="https://www.linkedin.com/in/yixi-wang-307937239/" target="_blank">
                   <img src={linkedin} alt="linkedin" className="w-8 h-8 rounded-full object-contain opacity-50 hover:opacity-100 duration-150"
                    />
                 </a>
-                <a href="https://www.linkedin.com/in/yixi-carol-wang-307937239/" target="_blank">
+                <a href="https://www.linkedin.com/in/yixi-wang-307937239/" target="_blank">
                   <span className="hidden lg:block text-[20px] opacity-50 hover:opacity-100 duration-150 hover:underline">Linkedin</span>
                 </a>
               </div>
